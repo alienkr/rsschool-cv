@@ -15,7 +15,8 @@ I'm Alen, a junior front-end developer. Currently, studying in RS School. I have
 - **Other:** Excel, Power BI, Powerpoint
 
 ## Code example
-```const array = [1, 2, 3, 4, 5];  
+```
+const array = [1, 2, 3, 4, 5];  
 const result = array.reduce((obj, item) => {  
 obj[item] = item.toString();  
 return obj;  
