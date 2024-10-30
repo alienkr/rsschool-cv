@@ -21,7 +21,8 @@ obj[item] = item.toString();
 return obj;  
 }, {});  
 
-console.log(result);```
+console.log(result);
+```
 
 
 ## Education
