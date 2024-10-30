@@ -1,4 +1,4 @@
-# Your Name
+# Alen Kairat
 
 ## Contact Information
 - **Email:** alen.kairatuly@gmail.com
