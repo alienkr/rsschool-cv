@@ -20,7 +20,6 @@ const result = array.reduce((obj, item) => {
 obj[item] = item.toString();  
 return obj;  
 }, {});  
-
 console.log(result);
 ```
 
