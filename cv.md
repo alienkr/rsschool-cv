@@ -15,18 +15,18 @@ I'm Alen, a junior front-end developer. Currently, studying in RS School. I have
 - **Other:** Excel, Power BI, Powerpoint
 
 ## Code example
-const array = [1, 2, 3, 4, 5];
-const result = array.reduce((obj, item) => {
-  obj[item] = item.toString();
-  return obj;
-}, {});
+- const array = [1, 2, 3, 4, 5];
+- const result = array.reduce((obj, item) => {
+-  obj[item] = item.toString();
+-  return obj;
+- }, {});
 
-console.log(result);
+- console.log(result);
 
 
 ## Education
-Monash University
-Bachelor of Commerce
+- Monash University
+- *Bachelor of Commerce*
 
 
 ## Languages
